@@ -1,0 +1,13 @@
+#categories-tree> .sidebar-nav .cmetismenu ul a::before{
+    content: '' !important;
+    position: absolute;
+    left: 19px;
+
+}
+.c-container li{
+    list-style-type:none;
+}
+  
+ul li{
+    list-style-type: none;
+}

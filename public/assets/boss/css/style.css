@@ -1,0 +1,10 @@
+.full-length{
+    width: 100%;
+}
+.table-fixed{
+  table-layout: fixed !important;
+}
+.table-fixed td{
+    word-break: break-word !important;
+    white-space: normal !important;
+}

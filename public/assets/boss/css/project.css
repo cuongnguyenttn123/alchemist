@@ -1,0 +1,70 @@
+.location .form-contain .btn-group{
+    width:100%;
+}
+
+.btn-group.show{
+    width:100%;
+}
+.multiselect.dropdown-toggle.btn.btn-default{
+  width:100%;
+}
+
+.multiselect-container.dropdown-menu.show{
+  width:100%;
+}
+/*.input-group-addon{
+  display: none;
+}*/
+.multiselect-container .input-group{
+  margin: 0;
+}
+.btn.btn-default.multiselect-clear-filter{
+  display: none;
+}
+
+.mile-show:hover{
+  color:rgb(19.6%, 80.4%, 19.6%);
+  transition-duration: all 0.5s;
+}
+.mile-hide:hover{
+  color:rgb(19.6%, 80.4%, 19.6%);
+  transition-duration: all 0.5s;
+}
+.mile-add:hover{
+  color:rgb(19.6%, 80.4%, 19.6%);
+  transition-duration: all 0.5s;
+}
+.mile-trash:hover{
+  color: rgb(80.4%, 4%, 4%);
+  transition-duration:all 0.5s;
+}
+
+/* Custom location container form */
+.multiselect-container{
+  max-height:200px;
+  overflow:auto;
+  position:relative;
+}
+.media-container{
+  max-height: 400px;
+  overflow: auto;
+}
+
+.highlight-select{
+  border: 5px solid #337ebb;
+}
+.filters{
+  z-index: 9;
+}
+.text-active{
+  color:#338ebb;
+  font-weight:bold;
+}
+.text-block{
+  color:#ff8800;
+  font-weight:bold;
+}
+.text-inactive{
+  color:#aa66cc;
+  font-weight:bold;
+}

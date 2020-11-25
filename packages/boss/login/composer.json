@@ -1,0 +1,11 @@
+{
+    "name": "khaih/login",
+    "description": "Login package",
+    "authors": [
+        {
+            "name": "khaih",
+            "email": "khaihoangdev@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,340 @@
+.rating-box {
+  position:relative;
+  vertical-align: middle;
+  font-family: FontAwesome;
+  display:inline-block;
+  color: #D1D1D1;
+}
+.rating-box:before{
+  content: "\f005  \f005  \f005  \f005  \f005";
+}
+.rating-box .rating {
+  position: absolute;
+  left:0;
+  top:0px;
+  white-space:nowrap;
+  overflow:hidden;
+  color: #4E95EE;
+}
+.rating-box .rating:before {
+  content: "\f005  \f005  \f005  \f005  \f005";
+}
+
+.rating-box .rating-a {
+  position: absolute;
+  left:0;
+  top:0px;
+  white-space:nowrap;
+  overflow:hidden;
+  color: #F9515A;
+}
+
+.rating-box .rating-a:before {
+  content: "\f005  \f005  \f005  \f005  \f005";
+}
+.day-post{
+  color: #9A9FBF; margin-top: 15px; margin-bottom: 15px;
+}
+.rating-marin{
+  margin-left: 24px;
+}
+.summon-contest{
+  margin-bottom: 60px
+}
+
+.page-title-nav{
+  z-index: 2
+}
+.page-title-nav-content{
+  margin: 0px 0px -1px 0px
+}
+
+.page-item-mg{
+  padding-left: 0px;
+}
+
+.page-link-cs{
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+  border-bottom: 0px solid;
+}
+
+.post-content-panel{
+  background-color: #fafbfd;border-top-left-radius: 0%;
+}
+
+.step-1-title{
+  margin-bottom: 0px;
+}
+.step-1-chart{
+  background-image: linear-gradient(#FCFCFC, #FAFBFD);
+}
+.milestone-color-gree{
+  color: #90CB1E;
+}
+
+.milestone-color-hong{
+  color: #F56969;
+}
+.milestone-color-yellow{
+  color: #FFA600;
+}
+.milestone-color-troi{
+  color: #38A9FF;
+}
+.milestone-color-block{
+  color: #474747;
+}
+.card-boby-mi{
+  font-size: 13px;
+}
+.news-feed-button {
+  background-color: #b9b7bb;
+}
+
+.my-posts-button {
+  background-color: #ffb542;
+}
+
+.replies-button {
+  background-color: #9874e3;
+}
+
+/*.test-comment-1:before {*/
+/*  content: "";*/
+/*  position: absolute;*/
+/*  width: 9px;*/
+/*  height: 9px;*/
+/*  top: 40px;*/
+/*  left: -5px;*/
+/*  background-color: #fafbfd;*/
+/*  border-radius: 100%;*/
+/*  border: 2px solid #c2c5d9;*/
+/*  z-index: 13;*/
+/*}*/
+.media-button {
+  background-color: #1adb78;
+}
+.portfolio-button {
+  background-color: #fa6dbc;
+}
+.milestone-color-waiting{
+  color: #646FAB;
+}
+.milestone-color-create{
+  color: #4CB3DF;
+}
+.milestone-color-defaut{
+  color: #3F4257;
+}
+
+.author-freshness .right-status-cn {
+  font-size: 14px;
+  font-weight: 400;
+  margin-right: 5px;
+}
+.milestone-color-gree-bg{
+  background-image: linear-gradient(#A3E12A, #7CB905);
+}
+
+.milestone-color-hong-bg{
+  background-image: linear-gradient(#FF8A8A, #F36161);
+}
+.milestone-color-yellow-bg{
+  background-image: linear-gradient(#FFBE00, #FF9E00);
+}
+.milestone-color-troi-bg{
+  background-image: linear-gradient(#75CEF3, #4CB3DF);
+}
+.milestone-color-creat-bg{
+  background-image: linear-gradient(#75CEF3, #4CB3DF);
+}
+.milestone-color-block-bg{
+  background-image: linear-gradient(#57596E, #3F4257);
+}
+.milestone-color-waiting-bg{
+  background-color: #646FAB;
+}
+.milestone-color-defaut-bg{
+  background-image: linear-gradient(#57596E, #3F4257);
+}
+
+.author-freshness .avt-hover:hover{
+  color: #ff0b00 !important;
+}
+
+.author-freshness .author-freshness-cn{
+  font-weight: 700 !important;
+  line-height: 1.3;
+}
+.shop_table .cart thead{
+  background-color: #ffffff !important;
+}
+body .ui-block table thead tr th .bg-img{
+  background-image: linear-gradient(#ffffff, #f0f4f9) !important;
+}
+body.ui-block table thead tr th .bg-img-color{
+  background-color: #0b0b0b !important;
+}
+.infomation-bis{
+  margin-left: 25px;
+}
+
+.chat-message-li li:hover {
+  background-color: aliceblue !important;
+}
+.page-input-no-pd{
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+.ui-block-1 {
+  background-color: #fff;
+  border-radius: 5px;
+}
+.mg-left-img{
+  width: 35px;
+}
+.comment-form-hp .btn-blue-one {
+  background-color: #57596E;
+}
+.status-color-review-sub{
+  font-size: 12px;
+  color: #68B400;
+}
+.status-color-review-pending{
+  font-size: 12px;
+  color: #E98B00;
+}
+.apprentice-status-cn{
+  margin-top: -5px; font-size: 12px;color: #51537F
+}
+
+.review-alchemist{
+  background-image: linear-gradient(#88CF00, #6FA900) !important;
+  font-weight: 400;
+}
+.review-alchemist-not{
+  background-color: #9A9FBF !important;
+}
+.save-user-archived-not{
+   background-image: linear-gradient(#FF8A8A, #F36161);
+   font-weight: 400;
+ }
+.save-user-archived{
+  background-image: linear-gradient(#6F7CC3, #646FAB);
+  font-weight: 500;
+  color: #FFFFFF;
+}
+.friend-header-thumb-none{
+  display: none;
+}
+.show-display-btn-clear{
+  display: none;
+}
+.archived-project{
+  font-size: 11px;
+  font-weight: 600;
+  color: #FFFFFF;
+  background-image: linear-gradient(#57596E, #3F4257);
+}
+.time-notification-custom{
+  position: absolute;
+  font-size: 10px;
+  bottom: 0px;
+  padding: 5px;
+}
+.check-end-messager{
+  margin-bottom: 15px;
+}
+.popup-chat .alchemist-mess .notification-date {
+  position: absolute;
+  left: 65px;
+  bottom: 10px !important;
+
+}
+
+.comment-form .post__author img {
+  margin-right: 15px;
+  min-width: 40px;
+  max-width: 40px;
+  height: 40px;
+  border: solid;
+  border-width: 3px;
+  border-color: #E9E9E9;
+  display: block;
+}
+.bg-table-tracking{
+  background-image: none !important;
+  color: #888da8 !important;
+}
+.bg-table-tracking-thead{
+  background: #ffffff !important;
+}
+.targeted_like{
+  fill: #ff5e3a;
+}
+.add-fw{
+  background-color: #d5d5d5;
+}
+
+h6{
+  font-weight: 700!important;
+}
+@media (max-width: 1300px) {
+  .event-item-table-fixed-width thead {
+    display: none !important;
+  }
+  .event-item-response{
+    display: flex !important;
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) {
+  .display-mobile-newsfeed{
+    display: none !important;
+  }
+
+}
+/*================= Responsive Mode ============*/
+@media (max-width: 480px) {
+  .post__author .more {
+    margin-right: 16px!important;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  .post-message-left{
+    width: 75%;
+    float: left;
+    margin-top: 15px;
+  }
+  .post-message-left .options-message + .options-message {
+    margin-left: 30px;
+  }
+  .post-message-right{
+    margin-left: 15px;
+
+  }
+
+  .post-control-button .btn-control {
+    display: inline-block; }
+  .post .control-block-button {
+    right: -15px;
+    top: 40px;
+    display: inline-grid;
+  }
+  .post__author .more {
+    margin-right: 16px; }
+  .post-control-button .btn-control svg {
+    width: 14px;
+    height: 14px; }
+  .post-control-button .btn-control {
+    line-height: 32px; }
+  .post-control-button .btn-control.has-i {
+    line-height: 36px; }
+  .post__author {
+    margin-bottom: 15px; } }
+
